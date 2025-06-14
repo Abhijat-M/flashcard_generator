@@ -1,6 +1,9 @@
 # Flashcard Generator Repository Documentation
 
-\$1
+## Overview
+This repository contains a **Streamlit-powered flashcard generation system** that leverages the Fireworks AI API to create educational flashcards from text or PDF documents. The system supports multiple subjects and offers features like topic detection, content filtering, and export capabilities (CSV/JSON).
+
+---
 
 ## Demo
 
