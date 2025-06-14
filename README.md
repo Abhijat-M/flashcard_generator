@@ -5,6 +5,7 @@
 ## Demo
 
 ![Flashcard Generator Demo](assets/demo.png)
+![Cards](assets/demo2.png)
 
 ---
 
