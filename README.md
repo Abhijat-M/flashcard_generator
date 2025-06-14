@@ -34,7 +34,7 @@ This repository contains a **Streamlit-powered flashcard generation system** tha
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/flashcard_generator.git
+   git clone https://github.com/Abhijat-M/flashcard_generator.git
    cd flashcard_generator
    ```
 
