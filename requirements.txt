@@ -1,0 +1,10 @@
+streamlit
+transformers
+json
+os
+requests
+torch
+PyPDF2
+pandas
+python-dotenv
+sentencepiece
